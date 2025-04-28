@@ -12,7 +12,7 @@ These screenshots represent the final eCommerce App template that is available f
 ## App Screenshots:
 
 |![Screenshot home](https://github.com/user-attachments/assets/fd41acdc-b4e6-428c-9a1f-8efca90560ac)
- | ![ecommerce-categories](https://github.com/user-attachments/assets/6e10c8fb-bad3-4267-87e8-66c0d4bbfc4b) |  ![ecommerce-catalog-screen](https://github.com/user-attachments/assets/b3331cf7-8e82-42cb-9c50-91f0ef1e5e7e)
+ | ![ecommerce-categories](https://github.com/user-attachments/assets/6e10c8fb-bad3-4267-87e8-66c0d4bbfc4b) |  ![ecommerce-catalog-screen]
  |
 |:---:|:---:|:---:|
 | Home Screen | Categories Screen | Catalog Screen |
