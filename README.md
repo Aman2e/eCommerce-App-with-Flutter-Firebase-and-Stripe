@@ -2,15 +2,18 @@
 The tutorial aims to display you how to build a simple eCommerce App that you can customize for your projects. It is designed using Flutter and Firebase as a backend. In addition, it allows you to easily process payments using Stripe.
 The code in the repository is the starter code for the eCommerce App with Flutter, Firebase and Stripe.
 
-![Intro]
-![ecommerce](https://github.com/user-attachments/assets/5347af53-09e3-4c6f-9791-7f2613b40a34)
+Intro
+![Screenshot intro](https://github.com/user-attachments/assets/efd29fce-508a-4aad-8d5d-7518ed268498)
 
 
 ## Screenshots
 These screenshots represent the final eCommerce App template that is available for purchase at: coming soon 
 
-## App Screenshots: 
-|![Home](screenshots/ecommerce-home.png) | ![Categories](screenshots/ecommerce-categories.png) | ![Catalog](screenshots/ecommerce-catalog-screen.png) |
+## App Screenshots:
+
+|![Screenshot home](https://github.com/user-attachments/assets/fd41acdc-b4e6-428c-9a1f-8efca90560ac)
+ | ![ecommerce-categories](https://github.com/user-attachments/assets/6e10c8fb-bad3-4267-87e8-66c0d4bbfc4b) |  ![ecommerce-catalog-screen](https://github.com/user-attachments/assets/b3331cf7-8e82-42cb-9c50-91f0ef1e5e7e)
+ |
 |:---:|:---:|:---:|
 | Home Screen | Categories Screen | Catalog Screen |
 | ![Cart](screenshots/ecommerce-cart.png) | ![Checkout](screenshots/ecommerce-checkout.png) | ![Product](screenshots/ecommerce-product-screen.png) |
@@ -49,8 +52,7 @@ dart run build_runner build
 
 5. Set up the flutter_stripe library in your project. 
     - There are platform specific changes to implement: https://pub.dev/packages/flutter_stripe#installation
-    - Watch the video tutorial: https://youtu.be/xYgIY_1ulhw
-
+    
 ### Step 3: Cloud Functions Set-Up
 The template uses Cloud Functions on Firebase (with Python) to run the backend logic for the payments. 
 
@@ -176,8 +178,7 @@ const ENDPOINT_INTENT_ID_URL =
 The eCommerce loads the categories' data using a Data Bundle. The Cloud Firestore data are exported into a static data file using the Firestore Bundle Builder extension. 
 
 1. Install the extension into your Firebase project: https://firebase.google.com/docs/extensions/official/firestore-bundle-builder
-2. Watch the video tutorial: https://youtu.be/xYgIY_1ulhw
-3. Get the function endpoint URL from Firebase. Use the Cloud Function's URLs to retrieve the static file in the categories repository `lib/repositories/category_repository.dart`
+2. Get the function endpoint URL from Firebase. Use the Cloud Function's URLs to retrieve the static file in the categories repository `lib/repositories/category_repository.dart`
 
 ```dart
 
