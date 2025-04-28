@@ -1,7 +1,6 @@
 # eCommerce App with Flutter, Firebase and Stripe
 The tutorial aims to display you how to build a simple eCommerce App that you can customize for your projects. It is designed using Flutter and Firebase as a backend. In addition, it allows you to easily process payments using Stripe.
-The code in the repository is the starter code for the eCommerce App with Flutter, Firebase and Stripe. It will help you to follow along the video:
-- YouTube video: https://youtu.be/xYgIY_1ulhw
+The code in the repository is the starter code for the eCommerce App with Flutter, Firebase and Stripe.
 
 ![Intro](screenshots/ecommerce.png) 
 
