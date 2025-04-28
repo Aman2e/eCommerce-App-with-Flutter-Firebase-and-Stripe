@@ -10,15 +10,10 @@ Intro
 These screenshots represent the final eCommerce App template that is available for purchase at: coming soon 
 
 ## App Screenshots:
-![Screenshot home](https://github.com/user-attachments/assets/1d802803-fd83-4fb3-934b-f231ce882e20)
-![Screenshot category](https://github.com/user-attachments/assets/68553574-64fd-49c7-9489-63c6f4dd5749)
-![Screenshot catalog](https://github.com/user-attachments/assets/7890afd3-5b7e-491e-b55a-e40b0f7e4adb)
-![Screenshot cart](https://github.com/user-attachments/assets/2a291334-cb3a-4c65-b3a4-67edbc6fae4f)
-![Screenshot checkout](https://github.com/user-attachments/assets/b769b7b7-3951-43ae-a7e4-19e4d0307404)
-![Screenshot product](https://github.com/user-attachments/assets/f32415e7-efb9-4945-b9b9-59a0bccc7661)
-![Screenshot user account](https://github.com/user-attachments/assets/7b865f55-6807-4979-8d07-ca28c0fd3f26)
-![Screenshot register](https://github.com/user-attachments/assets/11e48a2b-be20-42a7-8465-a84495e3f8b3)
-![Screenshot login](https://github.com/user-attachments/assets/b09eb037-5b63-4bf0-880f-77d9f6a3cf82)
+|![Screenshot home](https://github.com/user-attachments/assets/1d802803-fd83-4fb3-934b-f231ce882e20)  | ![Screenshot category](https://github.com/user-attachments/assets/68553574-64fd-49c7-9489-63c6f4dd5749)  |  ![Screenshot catalog](https://github.com/user-attachments/assets/7890afd3-5b7e-491e-b55a-e40b0f7e4adb)  |
+
+|![Screenshot cart](https://github.com/user-attachments/assets/2a291334-cb3a-4c65-b3a4-67edbc6fae4f)  |  ![Screenshot checkout](https://github.com/user-attachments/assets/b769b7b7-3951-43ae-a7e4-19e4d0307404)  |  ![Screenshot product](https://github.com/user-attachments/assets/f32415e7-efb9-4945-b9b9-59a0bccc7661)  |
+|![Screenshot user account](https://github.com/user-attachments/assets/7b865f55-6807-4979-8d07-ca28c0fd3f26)  |  ![Screenshot register](https://github.com/user-attachments/assets/11e48a2b-be20-42a7-8465-a84495e3f8b3)  |  ![Screenshot login](https://github.com/user-attachments/assets/b09eb037-5b63-4bf0-880f-77d9f6a3cf82)
 
 
 
